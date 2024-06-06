@@ -1,0 +1,14 @@
+{
+  "name": "Scroll Sepolia",
+  "website": "",
+  "description": "",
+  "explorer": "/",
+  "research": "",
+  "symbol": "ETH",
+  "rpc_url": "",
+  "type": "coin",
+  "coin_type": 1,
+  "decimals": 18,
+  "status": "active",
+  "links": []
+}
