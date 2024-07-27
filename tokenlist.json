@@ -1,5 +1,5 @@
 {
-  "name": "Parabol Labs Assets",
+  "name": "Parabol Assets",
   "timestamp": "2024-05-25T00:00:00.000Z",
   "version": {
     "major": 1,
@@ -22,6 +22,38 @@
       "chainId": 534351,
       "name": "USD Coin",
       "address": "0x6E42Dc4F45a7137A01e9eD524757971493324Ec7",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+    {
+      "chainId": 534352,
+      "name": "Parabol USD",
+      "symbol": "paraUSD",
+      "address": "0xcA77eB3fEFe3725Dc33bccB54eDEFc3D9f764f97",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Parabol-Finance/parabol-assets/main/logo.png"
+    },
+    {
+      "chainId": 534352,
+      "name": "USD Coin",
+      "address": "0x06eFdBFf2a14a7c8E15944D1F4A48F9F95F663A4",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+    {
+      "chainId": 84532,
+      "name": "Parabol USD",
+      "symbol": "paraUSD",
+      "address": "0xb3EFe46058F8df9dB499F50623AAFfa9FE9e0994",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Parabol-Finance/parabol-assets/main/logo.png"
+    },
+    {
+      "chainId": 84532,
+      "name": "USD Coin",
+      "address": "0xbcABBE273abFfC1c2CE62A4F53c79755CE15Ab99",
       "symbol": "USDC",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"

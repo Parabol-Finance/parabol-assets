@@ -1,6 +1,6 @@
 {
   "name": "Parabol Assets",
-  "network": "Scroll Sepolia",
+  "network": "Base Sepolia",
   "timestamp": "2024-05-25T00:00:00.000Z",
   "version": {
     "major": 1,
@@ -12,17 +12,17 @@
   "keywords": ["parabol", "default"],
   "tokens": [
     {
-      "chainId": 534351,
+      "chainId": 84532,
       "name": "Parabol USD",
       "symbol": "paraUSD",
-      "address": "0xbf0129D5CaB40C2Ffc1867e5c578A5dF2f070604",
+      "address": "0xb3EFe46058F8df9dB499F50623AAFfa9FE9e0994",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Parabol-Finance/parabol-assets/main/logo.png"
     },
     {
-      "chainId": 534351,
+      "chainId": 84532,
       "name": "USD Coin",
-      "address": "0x6E42Dc4F45a7137A01e9eD524757971493324Ec7",
+      "address": "0xbcABBE273abFfC1c2CE62A4F53c79755CE15Ab99",
       "symbol": "USDC",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"

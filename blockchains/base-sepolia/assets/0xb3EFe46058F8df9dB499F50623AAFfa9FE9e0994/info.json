@@ -1,0 +1,11 @@
+{
+  "name": "Parabol USD",
+  "type": "base-sepolia",
+  "symbol": "paraUSD",
+  "decimals": 18,
+  "website": "https://parabol.fi",
+  "description": "Stablecoin",
+  "explorer": "https://sepolia.basescan.org/address/0xb3EFe46058F8df9dB499F50623AAFfa9FE9e0994",
+  "status": "active",
+  "id": "0xb3EFe46058F8df9dB499F50623AAFfa9FE9e0994"
+}
