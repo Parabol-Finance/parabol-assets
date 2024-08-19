@@ -15,15 +15,15 @@
       "chainId": 84532,
       "name": "Parabol USD",
       "symbol": "paraUSD",
-      "address": "0xb3EFe46058F8df9dB499F50623AAFfa9FE9e0994",
+      "address": "0x8249FD60571f0003b1102f097060581A00C9fFB5",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Parabol-Finance/parabol-assets/main/logo.png"
     },
     {
       "chainId": 84532,
-      "name": "USD Coin",
-      "address": "0xbcABBE273abFfC1c2CE62A4F53c79755CE15Ab99",
-      "symbol": "USDC",
+      "name": "Mock USD Coin",
+      "address": "0xd74756f54d5E6D328A7536ebf30f7093701d437A",
+      "symbol": "mockUSDC",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
     }

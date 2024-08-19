@@ -2,12 +2,12 @@
   "name": "USD Coin",
   "website": "https://centre.io/usdc",
   "description": "USDC is a fully collateralized US dollar stablecoin, an Ethereum powered coin and is the brainchild of CENTRE, an open source project bootstrapped by contributions from Circle and Coinbase.",
-  "explorer": "https://sepolia.scrollscan.com/token/0x6E42Dc4F45a7137A01e9eD524757971493324Ec7",
-  "type": "SCROLL-SEPOLIA",
+  "explorer": "https://sepolia.basescan.org/token/0xd74756f54d5E6D328A7536ebf30f7093701d437A",
+  "type": "BASE-SEPOLIA",
   "symbol": "USDC",
   "decimals": 6,
   "status": "active",
-  "id": "0x6E42Dc4F45a7137A01e9eD524757971493324Ec7",
+  "id": "0xd74756f54d5E6D328A7536ebf30f7093701d437A",
   "tags": ["stablecoin"],
   "links": [
     {
