@@ -1,0 +1,11 @@
+{
+  "name": "Mock USD Coin",
+  "type": "ZKSYNC",
+  "symbol": "mockUSDC",
+  "decimals": 6,
+  "website": "",
+  "description": "Mock USD Coin",
+  "explorer": "https://explorer.zksync.io/address/0xf8A3f587b7DEc27D86e7aF2C92035b6F309D8b9b",
+  "status": "active",
+  "id": "0xf8A3f587b7DEc27D86e7aF2C92035b6F309D8b9b"
+}

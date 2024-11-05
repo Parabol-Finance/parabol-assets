@@ -1,0 +1,12 @@
+{
+  "name": "Bol USD",
+  "type": "ZKSYNC",
+  "symbol": "bolUSD",
+  "decimals": 18,
+  "website": "",
+  "description": "",
+  "explorer": "https://explorer.zksync.io/address/0x9bDC0c741fE6A32036f36E267A63B963b0398964",
+  "status": "active",
+  "id": "0x9bDC0c741fE6A32036f36E267A63B963b0398964",
+  "tags": ["stablecoin"]
+}
