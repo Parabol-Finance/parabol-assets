@@ -1,0 +1,11 @@
+{
+  "name": "Parabol USD",
+  "type": "base",
+  "symbol": "paraUSD",
+  "decimals": 18,
+  "website": "https://parabol.fi",
+  "description": "Stablecoin",
+  "explorer": "https://basescan.org/address/0x1f94d6A61973eDf53252b9E61c6250F303957b9D",
+  "status": "active",
+  "id": "0x1f94d6A61973eDf53252b9E61c6250F303957b9D"
+}
